@@ -1,0 +1,1 @@
+export {default as ConfigureQrView} from './configure-qr-view';

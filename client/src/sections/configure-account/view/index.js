@@ -1,0 +1,1 @@
+export {default as ConfigureAccountView} from './configure-account-view';
